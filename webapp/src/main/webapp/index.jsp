@@ -13,14 +13,14 @@
         <div class="section-1">
             <i class="fas fa-code fa-5x white"></i>
             <h2>Tapan Kumar Sahoo</h2>
-            <p>City,Country.</p>
+            <p>Bangalore,India.</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-linkedin"></i></a>
             <a href="#"><i class="fab fa-github"></i></a>
         </div>
         <div class="section-2">
             <h2>About</h2>
-            <p>Devops Engineer with 2+1 years of Java,Selenium Automation testing, hands-on experience in cration of complete Devops CI-CD pipeline by integrating Git, Maven, Jenkins, Ansible, Docker, Tomcat and AWS cloud in order to automate the deployment process completely. </p>
+            <p>Devops Engineer with 2+1 years of Java,Selenium Automation testing, hands-on experience in creation of complete Devops CI-CD pipeline by integrating Git, Maven, Jenkins, Ansible, Docker, Tomcat and AWS cloud in order to automate the deployment process completely. </p>
             <h2>DevOps Tools</h2>
             <p>Hands-on experience in GIT (distributed version controll tool), Ansible (Configuration management tool), Docker (Container based tool), Jenkins (Continuous integrationtool), Maven (build tool), Tomcat.</p>
 
