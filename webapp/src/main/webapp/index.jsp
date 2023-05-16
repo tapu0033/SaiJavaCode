@@ -13,7 +13,7 @@
         <div class="section-1">
             <i class="fas fa-code fa-5x white"></i>
             <h2>Tapan Kumar Sahoo</h2>
-            <p>Bangalore,India.</p>
+            <p>Bangalore,In</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-linkedin"></i></a>
             <a href="#"><i class="fab fa-github"></i></a>
